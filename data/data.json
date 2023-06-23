@@ -1,0 +1,404 @@
+[
+  {
+    "id": 1,
+    "chefPicture": "https://i.ibb.co/dmB5M0J/pexels-rodnae-productions-10432852-min.jpg",
+    "chefName": "Jamie Oliver",
+    "experience": 10,
+    "totalRecipes": 20,
+    "likes": 1000,
+    "description": "British chef and restaurateur known for his focus on healthy eating and simple recipes.",
+    "recipes": [
+      {
+        "recipes_name": "Lobster Bisque",
+        "ingredients": [
+          "lobster",
+          "heavy cream",
+          "butter",
+          "shallots",
+          "garlic",
+          "chicken stock",
+          "brandy",
+          "tomato paste",
+          "bay leaves",
+          "thyme",
+          "salt",
+          "black pepper"
+        ],
+        "cookingMethod": "Melt butter in a large pot over medium heat. Add shallots and garlic and cook until softened. Add tomato paste and cook for another minute. Add brandy and cook until reduced by half. Add lobster, chicken stock, bay leaves, and thyme. Bring to a simmer and cook until lobster is cooked through. Remove bay leaves and blend soup until smooth. Return soup to pot and stir in heavy cream. Season with salt and black pepper to taste.",
+        "rating": 4.5
+      },
+      {
+        "recipes_name": "Lobster Bisque",
+        "ingredients": [
+          "lobster",
+          "heavy cream",
+          "butter",
+          "shallots",
+          "garlic",
+          "chicken stock",
+          "brandy",
+          "tomato paste",
+          "bay leaves",
+          "thyme",
+          "salt",
+          "black pepper"
+        ],
+        "cookingMethod": "Melt butter in a large pot over medium heat. Add shallots and garlic and cook until softened. Add tomato paste and cook for another minute. Add brandy and cook until reduced by half. Add lobster, chicken stock, bay leaves, and thyme. Bring to a simmer and cook until lobster is cooked through. Remove bay leaves and blend soup until smooth. Return soup to pot and stir in heavy cream. Season with salt and black pepper to taste.",
+        "rating": 4.5
+      },
+      {
+        "recipes_name": "Lobster Bisque",
+        "ingredients": [
+          "lobster",
+          "heavy cream",
+          "butter",
+          "shallots",
+          "garlic",
+          "chicken stock",
+          "brandy",
+          "tomato paste",
+          "bay leaves",
+          "thyme",
+          "salt",
+          "black pepper"
+        ],
+        "cookingMethod": "Melt butter in a large pot over medium heat. Add shallots and garlic and cook until softened. Add tomato paste and cook for another minute. Add brandy and cook until reduced by half. Add lobster, chicken stock, bay leaves, and thyme. Bring to a simmer and cook until lobster is cooked through. Remove bay leaves and blend soup until smooth. Return soup to pot and stir in heavy cream. Season with salt and black pepper to taste.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chefPicture": "https://i.ibb.co/Z2gWkhK/pexels-kampus-production-8629121-min.jpg",
+    "chefName": "Ina Garten",
+    "experience": 12,
+    "totalRecipes": 30,
+    "likes": 600,
+    "description": "American cookbook author and television personality, known for her classic and approachable cooking style.",
+    "recipes": [
+      {
+        "recipes_name": "Vegetarian Pad Thai",
+        "ingredients": [
+          " pad Thai noodles",
+          "vegetable oil",
+          "mixed vegetables",
+          "roasted peanuts",
+          "cloves garlic",
+          "onions",
+          "fresh cilantro",
+          "brown sugar",
+          "soy sauce",
+          "rice vinegar",
+          "salt",
+          "lime juice",
+          "chili sauce"
+        ],
+        "cookingMethod": "Melt butter in a large pot over medium heat. Add shallots and garlic and cook until softened. Add tomato paste and cook for another minute. Add brandy and cook until reduced by half. Add lobster, chicken stock, bay leaves, and thyme. Bring to a simmer and cook until lobster is cooked through. Remove bay leaves and blend soup until smooth. Return soup to pot and stir in heavy cream. Season with salt and black pepper to taste.",
+        "rating": 4
+      },
+      {
+        "recipes_name": "Vegetarian Pad Thai",
+        "ingredients": [
+          " pad Thai noodles",
+          "vegetable oil",
+          "mixed vegetables",
+          "roasted peanuts",
+          "cloves garlic",
+          "onions",
+          "fresh cilantro",
+          "brown sugar",
+          "soy sauce",
+          "rice vinegar",
+          "salt",
+          "lime juice",
+          "chili sauce"
+        ],
+        "cookingMethod": "Melt butter in a large pot over medium heat. Add shallots and garlic and cook until softened. Add tomato paste and cook for another minute. Add brandy and cook until reduced by half. Add lobster, chicken stock, bay leaves, and thyme. Bring to a simmer and cook until lobster is cooked through. Remove bay leaves and blend soup until smooth. Return soup to pot and stir in heavy cream. Season with salt and black pepper to taste.",
+        "rating": 4
+      },
+      {
+        "recipes_name": "Vegetarian Pad Thai",
+        "ingredients": [
+          " pad Thai noodles",
+          "vegetable oil",
+          "mixed vegetables",
+          "roasted peanuts",
+          "cloves garlic",
+          "onions",
+          "fresh cilantro",
+          "brown sugar",
+          "soy sauce",
+          "rice vinegar",
+          "salt",
+          "lime juice",
+          "chili sauce"
+        ],
+        "cookingMethod": "Melt butter in a large pot over medium heat. Add shallots and garlic and cook until softened. Add tomato paste and cook for another minute. Add brandy and cook until reduced by half. Add lobster, chicken stock, bay leaves, and thyme. Bring to a simmer and cook until lobster is cooked through. Remove bay leaves and blend soup until smooth. Return soup to pot and stir in heavy cream. Season with salt and black pepper to taste.",
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chefPicture": "https://i.ibb.co/55bJ4qD/pexels-tirachard-kumtanom-887827-2-min.jpg",
+    "chefName": "David Lee",
+    "experience": 5,
+    "totalRecipes": 14,
+    "likes": 500,
+    "description": "Scottish chef and television personality, known for his high standards and demanding personality in the kitchen.",
+    "recipes": [
+      {
+        "recipes_name": "Grilled Salmon with Mango Salsa",
+        "ingredients": [
+          "salmon fillets",
+          "olive oil",
+          "smoked paprika",
+          "mangoes",
+          "garlic powder",
+          "onion",
+          "red bell pepper",
+          "jalapeno pepper",
+          " lime juice",
+          "salt",
+          "black pepper"
+        ],
+        "cookingMethod": "Preheat grill to medium-high heat. In a small bowl, mix together olive oil, smoked paprika, garlic powder, salt, and black pepper. Rub the mixture all over the salmon fillets. Grill the salmon for 4-5 minutes per side, or until cooked through.In a medium bowl, mix together mangoes, red onion, red bell pepper, jalapeno pepper, cilantro, and lime juice.",
+        "rating": 3.9
+      },
+      {
+        "recipes_name": "Grilled Salmon with Mango Salsa",
+        "ingredients": [
+          "salmon fillets",
+          "olive oil",
+          "smoked paprika",
+          "mangoes",
+          "garlic powder",
+          "onion",
+          "red bell pepper",
+          "jalapeno pepper",
+          " lime juice",
+          "salt",
+          "black pepper"
+        ],
+        "cookingMethod": "Preheat grill to medium-high heat. In a small bowl, mix together olive oil, smoked paprika, garlic powder, salt, and black pepper. Rub the mixture all over the salmon fillets. Grill the salmon for 4-5 minutes per side, or until cooked through.In a medium bowl, mix together mangoes, red onion, red bell pepper, jalapeno pepper, cilantro, and lime juice.",
+        "rating": 3.9
+      },
+      {
+        "recipes_name": "Grilled Salmon with Mango Salsa",
+        "ingredients": [
+          "salmon fillets",
+          "olive oil",
+          "smoked paprika",
+          "mangoes",
+          "garlic powder",
+          "onion",
+          "red bell pepper",
+          "jalapeno pepper",
+          " lime juice",
+          "salt",
+          "black pepper"
+        ],
+        "cookingMethod": "Preheat grill to medium-high heat. In a small bowl, mix together olive oil, smoked paprika, garlic powder, salt, and black pepper. Rub the mixture all over the salmon fillets. Grill the salmon for 4-5 minutes per side, or until cooked through.In a medium bowl, mix together mangoes, red onion, red bell pepper, jalapeno pepper, cilantro, and lime juice.",
+        "rating": 3.9
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chefPicture": "https://i.ibb.co/wM6qVsC/pexels-kampus-production-6605418-1-min.jpg",
+    "chefName": "Sarah Nguyen",
+    "experience": 10,
+    "totalRecipes": 40,
+    "likes": 1200,
+    "description": "British chef and cookbook author known for his vegetarian and Mediterranean-inspired cuisine.",
+    "recipes": [
+      {
+        "recipes_name": "Chicken Tikka Masala",
+        "ingredients": [
+          "chicken breasts",
+          "garam masala",
+          "cumin",
+          "paprika",
+          "garlic",
+          "coriander",
+          "turmeric",
+          "ginger",
+          "tomato puree",
+          "heavy cream",
+          "butter",
+          "salt",
+          "black pepper"
+        ],
+        "cookingMethod": "Cut chicken breasts into bite-sized pieces and toss with garam masala, turmeric, cumin, paprika, coriander, cayenne pepper, garlic, and ginger. Marinate for at least 30 minutes. Heat butter in a large skillet over medium-high heat. Add chicken and cook until browned on all sides. Add tomato puree and cook for a few minutes. Add heavy cream and bring to a simmer. Cook until sauce has thickened, stirring occasionally. Season with salt and black pepper to taste. Serve with basmati rice if desired.",
+        "rating": 4.9
+      },
+      {
+        "recipes_name": "Chicken Tikka Masala",
+        "ingredients": [
+          "chicken breasts",
+          "garam masala",
+          "cumin",
+          "paprika",
+          "garlic",
+          "coriander",
+          "turmeric",
+          "ginger",
+          "tomato puree",
+          "heavy cream",
+          "butter",
+          "salt",
+          "black pepper"
+        ],
+        "cookingMethod": "Cut chicken breasts into bite-sized pieces and toss with garam masala, turmeric, cumin, paprika, coriander, cayenne pepper, garlic, and ginger. Marinate for at least 30 minutes. Heat butter in a large skillet over medium-high heat. Add chicken and cook until browned on all sides. Add tomato puree and cook for a few minutes. Add heavy cream and bring to a simmer. Cook until sauce has thickened, stirring occasionally. Season with salt and black pepper to taste. Serve with basmati rice if desired.",
+        "rating": 4.9
+      },
+      {
+        "recipes_name": "Chicken Tikka Masala",
+        "ingredients": [
+          "chicken breasts",
+          "garam masala",
+          "cumin",
+          "paprika",
+          "garlic",
+          "coriander",
+          "turmeric",
+          "ginger",
+          "tomato puree",
+          "heavy cream",
+          "butter",
+          "salt",
+          "black pepper"
+        ],
+        "cookingMethod": "Cut chicken breasts into bite-sized pieces and toss with garam masala, turmeric, cumin, paprika, coriander, cayenne pepper, garlic, and ginger. Marinate for at least 30 minutes. Heat butter in a large skillet over medium-high heat. Add chicken and cook until browned on all sides. Add tomato puree and cook for a few minutes. Add heavy cream and bring to a simmer. Cook until sauce has thickened, stirring occasionally. Season with salt and black pepper to taste. Serve with basmati rice if desired.",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chefPicture": "https://i.ibb.co/ZBky5QQ/pexels-ivan-samkov-8951246-min.jpg",
+    "chefName": "Michael Kim",
+    "experience": 7,
+    "totalRecipes": 25,
+    "likes": 465,
+    "description": "British food writer and television personality, known for her indulgent and comforting recipes.",
+    "recipes": [
+      {
+        "recipes_name": "Spaghetti Carbonara",
+        "ingredients": [
+          "spaghetti",
+          "bacon",
+          "eggs",
+          "parmesan cheese",
+          "garlic",
+          "tomato paste",
+          "bay leaves",
+          "salt",
+          "black pepper"
+        ],
+        "cookingMethod": "Cook spaghetti according to package directions. While spaghetti is cooking, cook bacon in a large skillet over medium heat until crispy. Remove bacon from skillet and set aside. In a bowl, beat eggs, parmesan cheese, garlic, salt, and black pepper together. When spaghetti is done, drain and reserve some of the cooking water. Add spaghetti to skillet with bacon and toss to combine. Remove skillet from heat and pour egg mixture over spaghetti, stirring quickly to coat. If mixture seems too thick, add some of the reserved cooking water. Serve immediately, garnished with parsley if desired.",
+        "rating": 4.5
+      },
+      {
+        "recipes_name": "Spaghetti Carbonara",
+        "ingredients": [
+          "spaghetti",
+          "bacon",
+          "eggs",
+          "parmesan cheese",
+          "garlic",
+          "tomato paste",
+          "bay leaves",
+          "salt",
+          "black pepper"
+        ],
+        "cookingMethod": "Cook spaghetti according to package directions. While spaghetti is cooking, cook bacon in a large skillet over medium heat until crispy. Remove bacon from skillet and set aside. In a bowl, beat eggs, parmesan cheese, garlic, salt, and black pepper together. When spaghetti is done, drain and reserve some of the cooking water. Add spaghetti to skillet with bacon and toss to combine. Remove skillet from heat and pour egg mixture over spaghetti, stirring quickly to coat. If mixture seems too thick, add some of the reserved cooking water. Serve immediately, garnished with parsley if desired.",
+        "rating": 4.5
+      },
+      {
+        "recipes_name": "Spaghetti Carbonara",
+        "ingredients": [
+          "spaghetti",
+          "bacon",
+          "eggs",
+          "parmesan cheese",
+          "garlic",
+          "tomato paste",
+          "bay leaves",
+          "salt",
+          "black pepper"
+        ],
+        "cookingMethod": "Cook spaghetti according to package directions. While spaghetti is cooking, cook bacon in a large skillet over medium heat until crispy. Remove bacon from skillet and set aside. In a bowl, beat eggs, parmesan cheese, garlic, salt, and black pepper together. When spaghetti is done, drain and reserve some of the cooking water. Add spaghetti to skillet with bacon and toss to combine. Remove skillet from heat and pour egg mixture over spaghetti, stirring quickly to coat. If mixture seems too thick, add some of the reserved cooking water. Serve immediately, garnished with parsley if desired.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chefPicture": "https://i.ibb.co/zZG8RgZ/pexels-aleksandr-neplokhov-2291445-1-min.jpg",
+    "chefName": "Rachel Chen",
+    "experience": 9,
+    "totalRecipes": 19,
+    "likes": 599,
+    "description": "American chef, author, and television personality, known for his exploration of international cuisine and cultures.",
+    "recipes": [
+      {
+        "recipes_name": "Beef Wellington",
+        "ingredients": [
+          "beef tenderloin",
+          "puff pastry",
+          "mushrooms",
+          "shallots",
+          "garlic",
+          "egg",
+          "butter",
+          "olive oil",
+          "dijon mustard",
+          "thyme",
+          "salt",
+          "black pepper"
+        ],
+        "cookingMethod": "Season beef tenderloin with salt and black pepper. Heat olive oil in a large skillet over high heat. Sear beef on all sides until browned. Remove beef from skillet and let cool. In the same skillet, sauté mushrooms, shallots, and garlic until softened. Add thyme and cook for another minute. Remove from heat and let cool. Roll out puff pastry and spread with dijon mustard. Place mushroom mixture on top of pastry. Place beef on top of mushroom mixture. Brush pastry with beaten egg. Wrap pastry around beef and seal edges. Place on a baking sheet and bake at 400°F for 25-30 minutes or until pastry is golden brown. Let rest for 10 minutes before slicing.",
+        "rating": 4
+      },
+      {
+        "recipes_name": "Beef Wellington",
+        "ingredients": [
+          "beef tenderloin",
+          "puff pastry",
+          "mushrooms",
+          "shallots",
+          "garlic",
+          "egg",
+          "butter",
+          "olive oil",
+          "dijon mustard",
+          "thyme",
+          "salt",
+          "black pepper"
+        ],
+        "cookingMethod": "Season beef tenderloin with salt and black pepper. Heat olive oil in a large skillet over high heat. Sear beef on all sides until browned. Remove beef from skillet and let cool. In the same skillet, sauté mushrooms, shallots, and garlic until softened. Add thyme and cook for another minute. Remove from heat and let cool. Roll out puff pastry and spread with dijon mustard. Place mushroom mixture on top of pastry. Place beef on top of mushroom mixture. Brush pastry with beaten egg. Wrap pastry around beef and seal edges. Place on a baking sheet and bake at 400°F for 25-30 minutes or until pastry is golden brown. Let rest for 10 minutes before slicing.",
+        "rating": 4
+      },
+      {
+        "recipes_name": "Beef Wellington",
+        "ingredients": [
+          "beef tenderloin",
+          "puff pastry",
+          "mushrooms",
+          "shallots",
+          "garlic",
+          "egg",
+          "butter",
+          "olive oil",
+          "dijon mustard",
+          "thyme",
+          "salt",
+          "black pepper"
+        ],
+        "cookingMethod": "Season beef tenderloin with salt and black pepper. Heat olive oil in a large skillet over high heat. Sear beef on all sides until browned. Remove beef from skillet and let cool. In the same skillet, sauté mushrooms, shallots, and garlic until softened. Add thyme and cook for another minute. Remove from heat and let cool. Roll out puff pastry and spread with dijon mustard. Place mushroom mixture on top of pastry. Place beef on top of mushroom mixture. Brush pastry with beaten egg. Wrap pastry around beef and seal edges. Place on a baking sheet and bake at 400°F for 25-30 minutes or until pastry is golden brown. Let rest for 10 minutes before slicing.",
+        "rating": 4
+      }
+    ]
+  }
+]
